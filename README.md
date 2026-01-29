@@ -30,3 +30,20 @@ The **Mood Tracker ChatBot** allows users to input how they are feeling. The bot
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/ArulSrivastva-AVV/A-Basic-Python-Mood-Checker-ChatBot.git](https://github.com/ArulSrivastva-AVV/A-Basic-Python-Mood-Checker-ChatBot.git)
+
+2. Install Flask:
+
+   ```bash
+   pip install flask
+   ```
+
+3. Run the application:
+   ```bash
+   python mood.py
+   ```
+4. Accessing the ChatBot:
+   go to you browser and paste this URL
+   ```
+   http://127.0.0.1:5000
+   ```
+
