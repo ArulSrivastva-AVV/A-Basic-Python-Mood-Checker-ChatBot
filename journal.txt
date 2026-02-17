@@ -14,4 +14,3 @@
 [2026-01-29 21:51:02] Score: 0.00 | Text: damn
 [2026-01-29 21:51:08] Score: 0.50 | Text: ok shut up
 [2026-01-29 21:54:28] Score: 0.80 | Text: lol
-
