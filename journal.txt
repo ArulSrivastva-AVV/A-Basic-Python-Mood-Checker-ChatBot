@@ -11,11 +11,7 @@
 [2026-01-29 21:49:07] Score: 0.42 | Text: i feel just fine
 [2026-01-29 21:49:14] Score: 0.00 | Text: damn
 [2026-01-29 21:49:21] Score: 0.70 | Text: i feel good
-[2026-01-29 21:49:32] Score: -0.70 | Text: i feel bad my dick died
-[2026-01-29 21:49:39] Score: 0.50 | Text: ok
-[2026-01-29 21:50:46] Score: 0.00 | Text: i am a lesbian
-[2026-01-29 21:50:56] Score: 0.00 | Text: i like girls
 [2026-01-29 21:51:02] Score: 0.00 | Text: damn
 [2026-01-29 21:51:08] Score: 0.50 | Text: ok shut up
 [2026-01-29 21:54:28] Score: 0.80 | Text: lol
-[2026-01-29 21:54:34] Score: -0.40 | Text: fuck
+
